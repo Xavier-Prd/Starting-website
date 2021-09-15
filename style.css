@@ -157,6 +157,18 @@
         background: rgba(255, 255, 255, 1);
     }
     
+    #bloc-4-portfolio .col-sm-12.text-center p,
+    #bloc-2-services .col-sm-12.text-center p {
+        font-size: 23px;
+        width: 75%;
+    }
+    
+    #bloc-4-portfolio .col-sm-12.text-center,
+    #bloc-2-services .col-sm-12.text-center {
+        display: flex;
+        justify-content: center;
+    }
+    
     .d-bloc .btn-wire,
     .d-bloc .btn-wire:hover {
         color: rgba(255, 255, 255, 1);
